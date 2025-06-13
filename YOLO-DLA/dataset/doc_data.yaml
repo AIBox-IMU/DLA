@@ -1,0 +1,23 @@
+train: "C:\\data\\dataset-100\\images\\train"
+val: "C:\\data\\dataset-100\\images\\val"
+test: "C:\\data\\dataset-100\\images\\test"
+
+names:
+  0: t
+  1: t1
+  2: t2
+  3: t3
+  4: t4
+  5: paragraph
+  6: author
+  7: keyword
+  8: abstract
+  9: reference
+  10: graph
+  11: note
+  12: other
+  13: formula
+  14: table
+  15: footnote
+
+nc: 16
